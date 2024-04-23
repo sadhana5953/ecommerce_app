@@ -24,6 +24,5 @@ samples, guidance on mobile development, and a full API reference.
   <img src="https://github.com/sadhana5953/ecommerce_app/assets/148869257/92b7b483-d2e0-4cc3-b333-ac21e65b1ff8" width=22% height=35%>
 </P>
 
-https://github.com/sadhana5953/ecommerce_app/assets/148869257/cf4c157b-7cbf-4818-8607-4d4c6a8f02a8
 
 
