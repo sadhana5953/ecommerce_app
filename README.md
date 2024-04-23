@@ -25,11 +25,3 @@ samples, guidance on mobile development, and a full API reference.
 </P>
 
 https://github.com/sadhana5953/ecommerce_app/assets/148869257/e5208320-5a60-48d3-972c-bcad50457c65
-
-
-
-
-https://github.com/sadhana5953/ecommerce_app/assets/148869257/201c68f7-18a1-4703-81f4-7a43985853fa
-
-
-
